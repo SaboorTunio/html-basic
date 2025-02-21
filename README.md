@@ -7,10 +7,15 @@
 
 ## Basic Structure of an HTML Documents
 
-1.  **<!DOCTYPE html>**
-2. **<html>**
-3. **<head>**
-4. **<title>**
-5. **<body>**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+<body>
+    <!-- Your content here -->
+</body>
+</html>
 
 
