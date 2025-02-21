@@ -37,3 +37,11 @@
   - ```<li>```: List item.
 - **Tables**
   - ```<table>```,``` <tr>```, ```<td>```,``` <th>```: Create and format tables.
+
+## Intermediate HTML Tags
+- **Forms**
+ - ```<form>```,```<input>```,```<lable>```,```<textarea>```,```<button>```,```<select>```,```<option>```,```<fieldset>```,```<legend>```
+- **Media**
+ - ```<audio>```,```<video>```,```<source>```
+- **Semantic HTML**
+ - ```<header>```,```<footer>```,```<article>```,```<nav>```,```<aside>```
