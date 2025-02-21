@@ -45,3 +45,14 @@
  - ```<audio>```,```<video>```,```<source>```
 - **Semantic HTML**
  - ```<header>```,```<footer>```,```<article>```,```<nav>```,```<aside>```
+
+## Advanced HTML Concepts
+- **HTML5 New Elements**
+ - ```<canvas>```, ```<svg>```,``` <main>```,``` <figure>```,``` <figcaption>```
+- **Attributes**
+ - Global attributes: ```id```,``` class```,``` style```,``` title```,``` data-*``
+- **Data Handling**
+ - ```<data>```,``` <datalist>```,``` <output>```,``` <progress>```,``` <meter>```
+- **Meta Information**
+ - ```<meta>```,``` <base>```,``` <link>```,``` <script>```,``` <noscript>```
+ 
