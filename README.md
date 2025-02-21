@@ -40,19 +40,18 @@
 
 ## Intermediate HTML Tags
 - **Forms**
- - ```<form>```,```<input>```,```<lable>```,```<textarea>```,```<button>```,```<select>```,```<option>```,```<fieldset>```,```<legend>```
+  - ```<form>```,```<input>```,```<lable>```,```<textarea>```,```<button>```,```<select>```,```<option>```,```<fieldset>```,```<legend>```
 - **Media**
- - ```<audio>```,```<video>```,```<source>```
+  - ```<audio>```,```<video>```,```<source>```
 - **Semantic HTML**
- - ```<header>```,```<footer>```,```<article>```,```<nav>```,```<aside>```
+  - ```<header>```,```<footer>```,```<article>```,```<nav>```,```<aside>```
 
 ## Advanced HTML Concepts
 - **HTML5 New Elements**
- - ```<canvas>```, ```<svg>```,``` <main>```,``` <figure>```,``` <figcaption>```
+  - ```<canvas>```, ```<svg>```,``` <main>```,``` <figure>```,``` <figcaption>```
 - **Attributes**
- - Global attributes: ```id```,``` class```,``` style```,``` title```,``` data-*``
+  - Global attributes: ```id```,``` class```,``` style```,``` title```,``` data-*``
 - **Data Handling**
- - ```<data>```,``` <datalist>```,``` <output>```,``` <progress>```,``` <meter>```
+  - ```<data>```,``` <datalist>```,``` <output>```,``` <progress>```,``` <meter>```
 - **Meta Information**
- - ```<meta>```,``` <base>```,``` <link>```,``` <script>```,``` <noscript>```
- 
+  - ```<meta>```,``` <base>```,``` <link>```,``` <script>```,``` <noscript>```
