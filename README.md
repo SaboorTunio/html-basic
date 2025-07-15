@@ -20,7 +20,7 @@
 ```
 ## Basic HTML Tags
 - **Heading Tags**
-  - ```<h1>``` to <h6>: Define headings.
+  - ```<h1>``` to ```<h6>``` : Define headings.
 - **Paragraph Tags**
   - ```<p> ```: Define paragraph.
 - **Line Break**
